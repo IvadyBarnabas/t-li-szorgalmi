@@ -1,0 +1,70 @@
+body {
+    background-image: url(kepek/holdlovagháttér.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(253, 255, 240);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+p{
+    font-size: 18px;
+    text-shadow: 2px 2px 5px black;
+}
+ul{
+    text-shadow: 2px 2px 5px black;
+}
+li{
+    text-shadow: 2px 2px 5px black;
+}
+a {
+    color:rgb(67, 67, 67);
+    text-decoration: none;
+    padding: 10px;
+    margin: 20px;
+    border: 15px gray;
+    border-radius: 10%;
+    background-color:white;
+    transition: width 2s;
+    text-align: center;
+}
+a:hover {
+    background-color:rgb(50, 48, 48);
+    color: rgb(255, 33, 70);
+    padding: 10px;
+    margin: 20px;
+    border:15px solid rgb(255, 33, 70);
+    border-radius: 10%;
+    text-align: center;
+}
+h3{
+    text-align: center;
+    color: rgb(253, 255, 240);
+    text-shadow: 2px 2px 5px black;
+}
+h2{
+    color: rgb(253, 255, 240);
+    text-align: center;
+    text-shadow: 2px 2px 5px black;
+    font-weight: bold;
+}
+h1{
+    color: rgb(253, 255, 240);
+    text-align: center;
+    text-shadow: 2px 2px 5px black;
+    font-weight: bold;
+}
+img{
+    width: 200px;
+    height: 300px;
+    border:5px solid rgb(253, 255, 240);
+    padding: 5px;
+    text-align: center;
+}
+iframe{
+    width: 400px;
+    border:5px solid rgb(253, 255, 240);
+    padding: 5px;
+    text-align: center;
+}

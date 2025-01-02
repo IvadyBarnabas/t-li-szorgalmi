@@ -73,3 +73,11 @@ hr{
     width: 35%;
     margin-left: 0px;
 }
+ul.felsorolas{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 10px;
+    padding: 10px;
+}
+li{
+    font-style: italic;
+}
